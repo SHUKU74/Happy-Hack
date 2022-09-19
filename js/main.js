@@ -4,13 +4,6 @@ $(function($) {
         interval: 7000,
         loop: true
     });
-
-    $('.slider'),slick({
-    arrows: true,
-    dots: true,
-    // 表示するスライド枚数
-    slidesToShow: 4,
-    });
-    
+      
 });
 
